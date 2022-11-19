@@ -1,4 +1,4 @@
-**this repo is under buid**
+**this repo is under build**
 
 
 # Morden Eduction Sucks why not learn by your self?
